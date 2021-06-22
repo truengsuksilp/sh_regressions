@@ -1,0 +1,531 @@
+huddle_event_id,huddle_name,huddle_category,avg_days_to_complete,video_count,ex_count,test_count,link_count,pitch_count,coaching_video,white_artwork,description,instruction,outcome
+205774,Live Customer Success Calls,Live Call Recordings,18,0,0,0,0,5,0,0,1,1,0
+206373,Live Sales Calls & Demos,Live Call Recordings,32,0,0,0,0,5,0,0,1,1,0
+154516,Solution Consulting Certification,Sales Process Training,33,1,3,0,0,3,0,0,0,0,0
+239360,Solution Consultant | Sandbox Practice,Z | Ashley's Content,9,6,0,0,0,3,0,0,1,1,1
+182140,Who's Who in The Hood!,PeopleHood,197,0,1,0,0,2,0,0,1,1,1
+222416,SalesHood Messaging Pitch Practice,1. Sales Playbook,236,3,4,1,0,2,0,1,1,1,0
+139120,Customer Storytelling,Sales Coaching,29,2,2,0,0,1,1,1,1,1,1
+42249,Final Demo Hoodie Certification,1. Sales Playbook,498,6,1,0,0,1,0,0,1,1,0
+56683,Elevator Pitch Practice,Sales Coaching,367,1,2,0,0,1,0,0,1,1,1
+138438,Pudde Use Cases,2019,7,1,1,0,0,1,0,0,1,0,0
+149432,Getting Started Package - Update and Positioning,Getting Started,200,3,1,1,0,1,0,0,1,1,1
+186013,March Release - Backup,2019,124,12,2,1,0,1,0,1,1,0,0
+262826,End Food Insecurity,SKO Events,102,3,1,0,0,1,0,0,1,0,1
+272464,Enablement Mastery: Part 1 - People,Product Onboarding,5,0,5,0,0,1,0,1,0,0,0
+274405,Release Webinar Practice,Product Onboarding,11,0,0,0,0,1,0,1,0,0,0
+274459,Enablement Mastery Part 2: Ch 5-6,Product Onboarding,2,0,0,0,0,1,0,1,0,0,0
+276160,Mastering The SalesHood Pitch,Pitch Practice,21,7,1,0,0,1,0,0,0,0,0
+173211,Decision Making Process,Sales Coaching,19,3,2,0,0,0,1,1,1,1,1
+272919,Discovery,Sales Coaching,14,3,3,0,0,0,1,1,1,1,1
+43207,Tutorial on SalesHood,SalesHood Templates and Tutorials,287,4,0,0,0,0,0,0,1,1,0
+52541,Compelling Reason To Act Now,Sales Coaching,193,2,4,0,0,0,0,0,1,1,1
+179399,Compelling Reason To Act Now,Sales Coaching,86,2,4,0,0,0,0,0,1,1,1
+280313,Compelling Reason To Act Now,Sales Coaching,13,2,4,0,0,0,0,0,1,1,1
+121591,Team Check-In,Sales Coaching,9,0,6,0,0,0,0,0,1,1,0
+122689,Team Check-In,Sales Coaching,145,0,6,0,0,0,0,0,1,1,0
+123317,Team Check-In,Sales Coaching,276,0,6,0,0,0,0,0,1,1,0
+124215,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+125027,Team Check-In,Sales Coaching,72,0,6,0,0,0,0,0,1,1,0
+126238,Team Check-In,Sales Coaching,90,0,6,0,0,0,0,0,1,1,0
+128272,Team Check-In,Sales Coaching,119,0,6,0,0,0,0,0,1,1,0
+129539,Team Check-In,Sales Coaching,4,0,6,0,0,0,0,0,1,1,0
+130246,Team Check-In,Sales Coaching,3,0,6,0,0,0,0,0,1,1,0
+131306,Team Check-In,Sales Coaching,2,0,6,0,0,0,0,0,1,1,0
+131885,Team Check-In,Sales Coaching,103,0,6,0,0,0,0,0,1,1,0
+132668,Team Check-In,Sales Coaching,101,0,6,0,0,0,0,0,1,1,0
+133187,Team Check-In,Sales Coaching,68,0,6,0,0,0,0,0,1,1,0
+135042,Team Check-In,Sales Coaching,61,0,6,0,0,0,0,0,1,1,0
+135421,Team Check-In,Sales Coaching,15,0,6,0,0,0,0,0,1,1,0
+137785,Team Check-In,Sales Coaching,54,0,6,0,0,0,0,0,1,1,0
+138265,Team Check-In,Sales Coaching,43,0,6,0,0,0,0,0,1,1,0
+139480,Team Check-In,Sales Coaching,13,0,6,0,0,0,0,0,1,1,0
+142732,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+143930,Team Check-In,Sales Coaching,37,0,6,0,0,0,0,0,1,1,0
+145189,Team Check-In,Sales Coaching,45,0,6,0,0,0,0,0,1,1,0
+148183,Team Check-In,Sales Coaching,24,0,6,0,0,0,0,0,1,1,0
+150681,Team Check-In,Sales Coaching,4,0,6,0,0,0,0,0,1,1,0
+151703,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+153083,Team Check-In,Sales Coaching,33,0,6,0,0,0,0,0,1,1,0
+154315,Team Check-In,Sales Coaching,13,0,6,0,0,0,0,0,1,1,0
+157077,Team Check-In,Sales Coaching,46,0,6,0,0,0,0,0,1,1,0
+158256,Team Check-In,Sales Coaching,19,0,6,0,0,0,0,0,1,1,0
+159170,Team Check-In,Sales Coaching,15,0,6,0,0,0,0,0,1,1,0
+159980,Team Check-In,Sales Coaching,17,0,6,0,0,0,0,0,1,1,0
+160897,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+162379,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+164277,Team Check-In,Sales Coaching,10,0,6,0,0,0,0,0,1,1,0
+165606,Team Check-In,Sales Coaching,9,0,6,0,0,0,0,0,1,1,0
+166815,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+167681,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+169274,Team Check-In,Sales Coaching,5,0,6,0,0,0,0,0,1,1,0
+170249,Team Check-In,Sales Coaching,5,0,6,0,0,0,0,0,1,1,0
+171017,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+172052,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+173130,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+174510,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+175329,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+176028,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+177716,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+178914,Team Check-In,Sales Coaching,3,0,6,0,0,0,0,0,1,1,0
+180194,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+181437,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+182540,Team Check-In,Sales Coaching,5,0,6,0,0,0,0,0,1,1,0
+186883,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+188454,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+189407,Team Check-In,Sales Coaching,10,0,6,0,0,0,0,0,1,1,0
+191246,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+192258,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+193426,Team Check-In,Sales Coaching,5,0,6,0,0,0,0,0,1,1,0
+194797,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+196026,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+197243,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+197969,Team Check-In,Sales Coaching,8,0,6,0,0,0,0,0,1,1,0
+201318,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+201633,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+202758,Team Check-In,Sales Coaching,7,0,6,0,0,0,0,0,1,1,0
+204693,Team Check-In,Sales Coaching,5,0,6,0,0,0,0,0,1,1,0
+206180,Team Check-In,Sales Coaching,3,0,6,0,0,0,0,0,1,1,0
+206988,Team Check-In,Sales Coaching,5,0,6,0,0,0,0,0,1,1,0
+207601,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+208514,Team Check-In,Sales Coaching,7,0,6,0,0,0,0,0,1,1,0
+209553,Team Check-In,Sales Coaching,5,0,6,0,0,0,0,0,1,1,0
+210523,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+211574,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+249116,Team Check-In,Sales Coaching,8,0,6,0,0,0,0,0,1,1,0
+250571,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+252265,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+254204,Team Check-In,Sales Coaching,4,0,6,0,0,0,0,0,1,1,0
+254922,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+256035,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+256638,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+257945,Team Check-In,Sales Coaching,7,0,6,0,0,0,0,0,1,1,0
+259413,Team Check-In,Sales Coaching,7,0,6,0,0,0,0,0,1,1,0
+260625,Team Check-In,Sales Coaching,11,0,6,0,0,0,0,0,1,1,0
+261662,Team Check-In,Sales Coaching,18,0,6,0,0,0,0,0,1,1,0
+265990,Team Check-In,Sales Coaching,28,0,6,0,0,0,0,0,1,1,0
+266145,Team Check-In,Sales Coaching,10,0,6,0,0,0,0,0,1,1,0
+268419,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+269446,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+270531,Team Check-In,Sales Coaching,5,0,6,0,0,0,0,0,1,1,0
+271510,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+272443,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+273954,Team Check-In,Sales Coaching,26,0,6,0,0,0,0,0,1,1,0
+280398,Team Check-In,Sales Coaching,6,0,6,0,0,0,0,0,1,1,0
+285362,Team Check-In,Sales Coaching,10,0,6,0,0,0,0,0,1,1,0
+36523,Using Jira,PeopleHood,286,2,1,0,0,0,0,0,1,1,1
+37603,PROS Deal Win and Customer Success Story,SalesHood History,297,2,0,0,0,0,0,1,1,1,0
+191295,001b Discovery Teamwork,Selling Through Curiosity,67,2,2,0,0,0,1,0,1,1,1
+37591,Docusign Success Story,Deal Wins,102,7,1,0,0,0,0,0,1,1,0
+40404,Docusign Success Story,Deal Wins,244,7,1,0,0,0,0,0,1,1,0
+37720,Level 11,TBD,173,3,0,0,0,0,0,0,1,1,1
+40444,Level 11,TBD,244,3,0,0,0,0,0,0,1,1,1
+37608,New Relic Deal Win & SKO Videos,SalesHood History,76,4,1,0,0,0,0,0,1,1,1
+40399,New Relic Deal Win & SKO Videos,SalesHood History,142,4,1,0,0,0,0,0,1,1,1
+37606,Funding Circle Deal Win,SalesHood History,292,1,0,0,0,0,0,0,0,0,0
+37605,NewVoiceMedia Deal Win & Best Of Pitches,SalesHood History,293,6,0,0,0,0,0,0,1,0,0
+40434,NewVoiceMedia Deal Win & Best Of Pitches,SalesHood History,244,6,0,0,0,0,0,0,1,0,0
+37736,Customer Talks & Best Practices,SalesHood History,273,6,0,0,0,0,0,0,1,0,0
+52751,Selling With Champions,Sales Coaching,105,1,2,0,0,0,0,0,1,1,1
+38164,Mastering LinkedIn,Sales Coaching,138,1,2,0,0,0,0,0,1,1,0
+39414,InsideSales - Use Case Demo,SalesHood History,315,4,0,0,0,0,0,0,1,1,0
+39944,Huddle Deep Dive,SalesHood History,303,1,3,0,0,0,0,0,1,1,1
+39968,Product Playbook Demos,SalesHood History,224,4,0,0,0,0,0,0,1,0,0
+40004,"Email, Gmail & Drive Best Practices",PeopleHood,133,1,2,0,0,0,0,0,1,0,0
+40329,MindTickle Competitive Battlecard,MindTickle,362,4,3,0,0,0,0,0,1,1,0
+40494,Self-Sourcing Projects,SalesHood History,447,1,2,0,0,0,0,0,1,1,1
+40527,Emails by Persona Resources and Examples,Prospecting,243,1,7,0,0,0,0,0,1,1,1
+41101,Prospecting Tools,SalesHood History,173,1,1,0,0,0,0,0,1,1,1
+41180,Gmail Best Practices,PeopleHood,356,3,1,0,0,0,0,0,1,1,0
+41407,FinancialForce Story & Deal Win,Customer Stories,328,8,2,0,0,0,0,0,1,0,0
+129538,Forecast Review Huddle,Sales Coaching,8,0,6,0,0,0,0,0,1,1,1
+131724,Forecast Review Huddle,Sales Coaching,12,0,6,0,0,0,0,0,1,1,1
+133937,Forecast Review Huddle,Sales Coaching,58,0,6,0,0,0,0,0,1,1,1
+144332,Forecast Review Huddle,Sales Coaching,26,0,6,0,0,0,0,0,1,1,1
+152235,Forecast Review Huddle,Sales Coaching,19,0,6,0,0,0,0,0,1,1,1
+219585,Call Shadowing,SalesHood Templates and Tutorials,277,0,5,0,0,0,0,0,1,1,1
+43556,Sales Process Best Practices,Sales Process Training,136,4,1,0,0,0,0,1,1,1,1
+43750,Top Elevator Pitches,SalesHood History,136,7,1,0,0,0,0,0,1,0,0
+43751,Customer Storytelling Best Practices,SalesHood History,248,5,0,0,0,0,0,0,0,0,0
+43764,Apttus Success Stories,Customer Stories,141,5,1,0,0,0,0,0,1,0,0
+44241,Social Selling Checklist,TBD,142,0,2,1,0,0,0,0,1,1,0
+45262,Lattice Engines,SalesHood History,387,1,0,0,0,0,0,0,1,1,1
+45930,Watch the Marchex Deal Win Story,SalesHood History,325,1,0,0,0,0,0,0,1,1,1
+46005,Hyperwallet,SalesHood History,244,2,0,0,0,0,0,0,1,1,1
+47587,Halogen Software,SalesHood History,245,1,0,0,0,0,0,0,1,1,1
+46499,Secret To Successful Meetings,Stage 2: Sales Qualified Opportunity,125,1,2,0,0,0,0,0,1,1,1
+46668,Cert Tips & Coaching,Sales Process Training,373,2,1,0,0,0,0,0,1,1,1
+47852,Foresee Deal Win,SalesHood History,244,1,0,0,0,0,0,0,1,1,1
+47941,Lenovo (Services),SalesHood History,387,1,0,0,0,0,0,0,1,1,1
+47918,ServiceNow (Inspire Group),TBD,415,1,0,0,0,0,0,0,1,1,1
+48433,What Is An LMS?,Competition,45,1,1,0,0,0,0,0,1,0,0
+49020,Competitive Landscape & New Competitors,SalesHood History,270,2,1,1,0,0,0,0,1,1,1
+49301,Content I Recorded For Customers ,SalesHood History,320,5,0,0,0,0,0,1,1,1,1
+49745,Welcome To The Hood New Marketers,SalesHood History,102,2,1,0,0,0,0,0,1,1,1
+50162,BPM Microsystems,SalesHood History,390,1,0,0,0,0,0,0,1,1,1
+49926,Using Twitter For Customer Marketing,SalesHood History,102,2,1,0,0,0,0,0,1,1,1
+49928,Social Selling Tactics & Tips,SalesHood History,203,4,1,0,0,0,0,0,1,1,1
+50533,Host Analytics,Deal Wins,233,1,0,0,0,0,0,0,1,1,1
+52042,Joey Fuca's Timeline,SalesHood History,367,7,0,0,0,0,0,0,1,0,1
+50970,Customer Personas,Stage 2: Sales Qualified Opportunity,453,5,1,0,0,0,0,1,1,0,0
+52110,DOMO Win Story,TBD,32,3,1,0,0,0,0,0,1,1,0
+52249,Team Check-in Orientation,PeopleHood,366,3,0,0,0,0,0,0,1,0,0
+52283,Pricing Tutorial & Support,Stage 5: Preferred Vendor,293,3,1,1,0,0,0,0,1,1,0
+52591,Dave's Productivity Timeline,Sales Process Training,317,7,0,0,0,0,0,0,1,0,1
+52776,"Corporate Slide Template, Branding and Logos",Website,213,1,2,0,0,0,0,0,1,0,0
+52750,"Vision, Values, Methods & Metrics (V2MOM)",SalesHood History,180,2,1,0,0,0,0,0,1,0,0
+53080,Connect the Dots,TBD,359,1,2,0,0,0,0,0,1,1,1
+53958,Mutual Close Plan Coaching,Stage 4: Solution Fit Confirmed,381,3,2,0,0,0,0,0,1,1,0
+54320,Newsela Win Story & Success Plan,TBD,39,5,0,0,0,0,0,0,1,0,0
+54742,Certification Artwork,SalesHood History,359,0,1,0,0,0,0,0,1,0,0
+54744,STC Barry Rhein Artwork,Selling Through Curiosity,447,0,1,0,0,0,0,0,1,0,0
+55894,CSM Role Introduction,TBD,244,1,4,0,0,0,0,0,1,1,1
+56988,Learncore Competitive Huddle,Showpad,98,2,3,0,0,0,0,0,1,0,1
+56990,Trial & Pilot Best Practices,Sales Process Training,315,0,1,0,0,0,0,0,1,0,0
+57137,Customer References Library,SalesHood Templates and Tutorials,183,0,3,0,0,0,1,0,1,1,0
+58230,RingCentral Win Story & Keynote,TBD,52,5,2,0,0,0,0,0,1,0,0
+63464,Customer Engagement By Customer,Adoption Programs,142,0,4,0,0,0,0,0,1,0,0
+65915,Tutorial on Running Coaching Huddles,TBD,266,3,0,0,0,0,0,0,1,1,1
+67345,Tealium,TBD,8,1,0,0,0,0,0,0,1,0,0
+67786,What Is Sales Enablement?,Stage 1: Initial Call Setup,418,7,0,0,0,0,0,0,1,0,0
+71594,Kespry Deal Win,TBD,322,1,0,0,0,0,0,0,1,1,1
+70506,Amy Pence's Alteryx Story,Customer Stories,1,2,1,0,0,0,0,0,1,0,0
+70762,teat - high trch,TBD,5,1,0,0,0,0,0,0,1,1,1
+71684,TransNational Payments,TBD,257,1,0,0,0,0,0,0,1,1,1
+71677,MobileHealth,TBD,6,1,0,0,0,0,0,0,1,1,1
+71935,Customer Value Stories,Customer Stories,333,8,1,0,0,0,0,0,1,0,0
+72124,Bob Kruzner ServiceMax Story,Customer Stories,344,1,1,0,0,0,0,0,1,1,1
+73063,Yext Interviews & Win Story,TBD,8,6,0,0,0,0,0,0,0,1,1
+73160,Aaron Farley Apttus Story,Customer Stories,244,1,1,0,0,0,0,0,1,1,1
+73178,Qstream,Qstream,336,0,1,0,0,0,0,0,1,0,0
+73377,Huddle Overview & Use Cases,Old Product Training,161,2,1,0,0,0,0,0,1,0,0
+73378,Huddle & Content Administration,Old Product Training,85,12,1,0,0,0,0,0,0,0,0
+73379,Huddles In Action,Old Product Training,197,2,1,0,0,0,0,0,1,0,0
+73380,Sales Enablement Huddle Templates,Old Product Training,434,2,1,1,0,0,0,0,1,0,0
+73385,Scheduled vs. Open Huddles,Old Product Training,187,1,1,1,0,0,0,0,1,0,0
+73386,Pitch Overview & Best Practices,Old Product Training,228,3,1,0,0,0,0,0,1,0,0
+73387,Pitch Demonstrations,Old Product Training,217,2,1,0,0,0,0,0,1,0,0
+73392,Pitch Administration,Old Product Training,207,8,1,0,0,0,0,0,1,0,0
+73393,Reporting & Analytics,Old Product Training,131,2,1,0,0,0,0,0,1,0,0
+73394,Library Overview & Demonstration,Old Product Training,183,4,1,0,0,0,0,0,1,0,0
+73395,Library ADMIN,Old Product Training,200,2,1,0,0,0,0,0,1,0,0
+73414,Learning Path Overview & Use Cases,Old Product Training,204,3,1,0,0,0,0,0,1,0,0
+73417,Learning Path Demonstrations,Old Product Training,195,2,1,0,0,0,0,0,1,0,0
+73486,Learning Path Administration,TBD,23,8,1,0,0,0,0,0,1,0,0
+73498,People & Team Administration,Old Product Training,179,3,0,0,0,0,0,0,1,0,0
+73846,Deal Wins,Old Product Training,280,2,0,0,0,0,0,0,1,0,0
+73856,Learning Path Admin & Set Ups,Old Product Training,96,5,1,0,0,0,0,0,1,0,0
+74145,Build Your Network,PeopleHood,259,0,4,0,1,0,0,0,1,0,0
+74161,Sales To Professional Services Transition,Sales Process Training,301,5,0,0,0,0,0,0,1,0,0
+74313,Best Practices - Executing Deal Wins with your Customers,Tutorials,277,3,0,1,0,0,0,0,1,1,1
+74316,Best Practices - Run Team Coaching Huddles,Tutorials,277,4,0,1,0,0,0,0,1,1,1
+74323,Best Practices - Roll Out & Adoption of SalesHood,TBD,277,6,0,1,0,0,0,0,1,1,1
+74328,Best Practice - Level Setting with your Customer,Tutorials,269,2,0,1,0,0,0,0,1,1,1
+74330,Best Practice - Mutual Go Live Plans,Tutorials,269,1,0,1,0,0,0,0,1,1,1
+74367,Best Practice - Use SH to capture training,Tutorials,319,1,0,0,0,0,0,0,1,1,1
+74389,Practice Creating A Huddle,Old Product Training,213,0,2,0,0,0,0,0,1,1,0
+74392,Practice Creating a Certification,Old Product Training,171,0,1,0,0,0,0,0,1,1,0
+75354,Executive Business Reviews - DocuSign,Adoption Programs,145,1,1,0,0,0,0,0,1,0,0
+75656,Using Cirrus Insight,Sales Process,427,5,0,0,0,0,0,0,1,0,1
+75752,Case Study: Host Analytics,Multipliers Interviews 2018,331,2,1,0,0,0,0,0,1,0,0
+75756,SKO Best Practices,Adoption Programs,249,5,1,0,0,0,0,0,1,0,0
+75755,ServiceMax's Product Training and Product Playbook,Customer Stories,224,2,1,0,0,0,0,0,1,0,0
+75951,Kelly Frey's Verizon Story,Customer Stories,91,2,1,0,0,0,0,0,1,0,0
+75948,Quarterly Business Reviews,Customer Stories,250,2,2,0,0,0,0,0,1,0,0
+75949,First 30 Days of Onboarding,Customer Stories,249,2,1,0,0,0,0,0,1,1,0
+75947,QBR Best Practices @Alteryx,Customer Stories,250,1,1,0,0,0,0,0,1,0,0
+75950,How To Structure An Onboarding Program?,Customer Stories,249,6,1,0,0,0,0,0,1,0,0
+77173,"Creating a \Project\"" in Salesforce""",Customer Success,306,1,0,0,0,0,0,0,1,1,1
+77607,Creating & Sending SOW's,Sales Process Training,237,5,0,2,0,0,0,0,1,0,1
+78294,Customer Success Plays Resources,Adoption Programs,352,0,9,0,0,0,0,0,1,0,0
+78496,Heap Analytics Deal Win Story,TBD,16,1,0,0,0,0,0,0,1,1,1
+79121,BD - Leaving Effective Voicemails,Prospecting,123,4,0,0,0,0,0,0,1,1,1
+79169,Recorded Sales Discovery Calls,TBD,259,0,2,0,0,0,0,0,1,1,1
+83552,Managing Through Curiosity,Managers,358,5,0,0,0,0,0,0,1,0,0
+84642,Company Culture,SalesHood History,258,6,0,0,0,0,0,0,1,0,0
+85138,Exponential Win Story,TBD,86,1,0,0,0,0,0,0,1,0,0
+85137,Cision Win Story,SalesHood History,283,1,0,0,0,0,0,0,1,1,1
+87148,Public Speaking - Body Language,SalesHood History,210,3,1,1,0,0,0,0,1,0,0
+85837,David's Test,TBD,209,1,2,1,0,0,0,0,0,0,0
+88717,Resorts and Lodges Deal Win,TBD,11,1,0,0,0,0,0,0,1,1,1
+111702,Compelling Events Reviews,Sales Process,16,1,2,0,0,0,1,0,1,1,0
+87309,Rainforest QA Deal Win Story,TBD,5,1,0,0,0,0,0,0,1,0,0
+87453,Workshop Homework,Selling Through Curiosity,207,1,3,0,0,0,0,0,1,0,0
+87723,Selling Through Curiosity Success Stories,SalesHood History,236,1,1,0,0,0,0,0,1,0,0
+88053,What are you doing for prospecting?,SalesHood History,232,0,1,0,0,0,0,0,1,1,1
+88690,CSA Deal Win,TBD,27,1,0,0,0,0,0,0,1,0,0
+88793,001 Barry's Welcome & Intro Stories,Selling Through Curiosity,106,2,1,0,0,0,1,0,1,1,0
+88910,001a- Discovery Pre-Work,Selling Through Curiosity,154,5,0,0,0,0,1,0,1,1,1
+89165,001c- Discovery Best Practices,Selling Through Curiosity,317,1,2,0,0,0,1,0,1,1,1
+90011,002b- Effective Note Taking Best Practices,Selling Through Curiosity,196,1,0,0,0,0,1,0,1,1,1
+191297,003a- Qualification,Selling Through Curiosity,109,2,2,0,0,0,1,0,1,1,1
+280308,003a- Qualification,Selling Through Curiosity,20,2,2,0,0,0,1,0,1,1,1
+90024,004c- Decision-Making Process Best Practices,Selling Through Curiosity,156,2,0,0,0,0,1,0,1,1,1
+90025,005a- Advanced Questioning Pre-Work,Selling Through Curiosity,165,3,0,0,0,0,1,0,1,1,1
+207012,005b-Advanced Questioning Teamwork,Selling Through Curiosity,7,2,2,0,0,0,1,0,1,1,1
+90027,005c- Advanced Questioning Best Practices,Selling Through Curiosity,108,1,0,0,0,0,1,0,1,1,1
+90034,008a- Closing Through Curiosity Pre-Work,Selling Through Curiosity,1,2,0,0,0,0,1,0,1,1,1
+207013,011- Relationship Building Extras,Selling Through Curiosity,9,3,3,0,0,0,1,0,1,1,1
+91333,200- Facilitating the STC Program,Managers,4,7,0,0,0,0,0,0,1,1,1
+89185,Getting  your Customers Started - Onboarding Paths,SalesHood History,320,7,0,0,0,0,0,0,1,1,1
+89240,Competitive Landscape & Insights,Competition,231,1,1,0,1,0,0,0,1,0,0
+90153,Sales Enablement Guiding Principles,SalesHood History,198,2,1,0,0,0,0,0,1,0,0
+90501,Lessonly Competitive Huddle,Lessonly,210,7,4,0,0,0,0,0,1,0,0
+91022,United Way Deal Win & Customer Story,Deal Wins,247,6,2,0,0,0,0,0,1,0,0
+91086,DocuSign SCORM,TBD,1,0,0,0,0,0,0,0,0,0,0
+91409,SalesHood Book Club,SalesHood History,120,2,2,0,0,0,0,0,1,1,0
+91877,Website Feedback and Review,Website,167,0,5,0,0,0,0,0,1,1,0
+91992,Holiday RBEs for our Customers,SalesHood History,273,0,1,0,0,0,0,0,1,0,0
+120440,RingCentral Customer Stories,Customer Stories,101,5,2,0,0,0,0,0,1,0,0
+92917,SKO Customer Examples & Best Practices,SKO Events,102,5,1,0,0,0,0,0,1,0,0
+94446,Sales Enablement Methodology,SalesHood History,167,4,1,0,0,0,0,1,1,0,0
+95860,Coaches Corner,TBD,272,0,6,0,0,0,0,0,1,1,1
+95984,Coaches Corner,TBD,268,0,6,0,0,0,0,0,1,1,1
+96932,Coaches Corner,TBD,264,0,6,0,0,0,0,0,1,1,1
+97651,Coaches Corner,TBD,221,0,6,0,0,0,0,0,1,1,1
+98884,Coaches Corner,TBD,248,0,6,0,0,0,0,0,1,1,1
+99507,Coaches Corner,TBD,240,0,6,0,0,0,0,0,1,1,1
+100165,Coaches Corner,TBD,210,0,6,0,0,0,0,0,1,1,1
+100911,Coaches Corner,TBD,229,0,6,0,0,0,0,0,1,1,1
+101698,Coaches Corner,TBD,220,0,6,0,0,0,0,0,1,1,1
+102690,Coaches Corner,TBD,200,0,6,0,0,0,0,0,1,1,1
+103585,Coaches Corner,TBD,207,0,6,0,0,0,0,0,1,1,1
+104637,Coaches Corner,TBD,201,0,6,0,0,0,0,0,1,1,1
+105620,Coaches Corner,TBD,193,0,6,0,0,0,0,0,1,1,1
+106306,Coaches Corner,TBD,186,0,6,0,0,0,0,0,1,1,1
+106898,Coaches Corner,TBD,180,0,6,0,0,0,0,0,1,1,1
+107425,Coaches Corner,TBD,173,0,6,0,0,0,0,0,1,1,1
+108168,Coaches Corner,TBD,166,0,6,0,0,0,0,0,1,1,1
+109180,Coaches Corner,TBD,159,0,6,0,0,0,0,0,1,1,1
+110108,Coaches Corner,TBD,152,0,6,0,0,0,0,0,1,1,1
+111036,Coaches Corner,TBD,145,0,6,0,0,0,0,0,1,1,1
+111872,Coaches Corner,TBD,138,0,6,0,0,0,0,0,1,1,1
+112755,Coaches Corner,TBD,131,0,6,0,0,0,0,0,1,1,1
+113653,Coaches Corner,TBD,124,0,6,0,0,0,0,0,1,1,1
+96300,2018 V2MOM,History,146,7,1,0,0,0,0,0,1,1,0
+97243,"SalesHood Release: Feb 7th, 2018",2018,312,1,0,0,0,0,0,1,1,0,0
+98462,Weekly Sales Metrics,TBD,3,1,0,0,0,0,0,0,1,1,0
+99907,Objection Handling Pitches,SalesHood History,13,8,1,0,0,0,0,0,1,0,0
+100464,SalesHood Product Communication and Alignment Process,SalesHood History,109,10,1,0,0,0,0,0,1,0,0
+100379,March Release,2018,369,5,2,0,0,0,0,1,1,0,0
+100650,Onboarding Checklist and FAQ,PeopleHood,225,0,4,0,0,0,0,0,1,1,1
+101972,MULTIPLIERS 2018 Feedback & New Ideas,MULTIPLIERS Conference,251,0,2,0,0,0,0,1,1,1,0
+102063,March Release Review,2018,92,1,4,0,0,0,0,1,1,1,0
+102783,March Sprint Preview,2018,11,8,0,0,0,0,0,0,1,0,0
+104366,Ambry Genetics Success Story,Deal Wins,174,2,1,0,0,0,0,0,1,0,0
+104757,HR PeopleHood Policies,PeopleHood,377,0,0,2,0,0,0,1,1,0,0
+105291,Customer Interviews Full Length Cuts,Multipliers Interviews 2018,30,9,0,0,0,0,0,0,1,1,0
+106455,Customer Videos Uncut,Multipliers Interviews 2018,79,9,0,0,0,0,0,1,1,1,0
+106551,April Release Review,2018,61,1,4,0,0,0,0,1,1,1,0
+107100,Awesome Use Cases,TBD,36,5,0,0,0,0,0,0,1,1,1
+107073,Demos & Guided Trials Huddle,Stage 4: Solution Fit Confirmed,220,4,3,0,1,0,0,0,1,0,0
+107145,How To Do Advanced Searches In LinkedIn,Prospecting,111,2,1,0,0,0,0,0,1,1,1
+107172,April Sprint Preview,2018,308,5,1,0,0,0,0,0,1,0,0
+107678,Commit Process,Sales Process,19,1,0,0,0,0,0,0,1,1,1
+108187,CommunityHood Demos,Stage 4: Solution Fit Confirmed,220,2,2,0,0,0,0,0,1,0,0
+108919,Win-Back Reviews,SalesHood Templates and Tutorials,37,0,1,0,0,0,0,0,1,0,0
+109300,Support Communication and Alignment,Support,100,1,0,0,0,0,0,0,1,0,0
+109806,CEO Updates 2018,SalesHood History,97,14,1,0,0,0,0,0,0,0,0
+110648,June 11th Release,2018,74,7,1,4,0,0,0,0,1,1,1
+112331,MULTIPLIERS 2018 Product Demo,2018,125,1,0,0,0,0,0,0,1,0,0
+112757,Why Customer Love SalesHood,MULTIPLIERS Conference,90,5,0,0,0,0,0,0,1,1,0
+113096,After Hours Support Process,Support,83,1,1,1,0,0,0,0,1,0,0
+143708,After Hours Support Process,Support,2,1,1,1,0,0,0,0,1,0,0
+113100,Huddle Certification - BW,SalesHood History,27,1,2,1,0,0,0,0,1,1,1
+113529,Customer Day Nominations,MULTIPLIERS Conference,67,1,1,0,0,0,0,0,1,0,0
+113770,Test,TBD,91,1,1,1,0,0,0,0,0,0,0
+114194,July Release Huddle,2018,24,11,0,0,0,0,0,0,1,0,0
+116098,Q2 End of Quarter Recap from Nick,SalesHood History,15,1,1,0,0,0,0,0,1,0,0
+116156,New Zealand Success Stories,Customer Stories,284,4,3,0,0,0,0,0,1,0,0
+116993,Mid-Year QBR Huddle,Sales Process,15,2,2,0,0,0,0,0,1,1,0
+116853,Values Exercise,History,22,1,6,0,0,0,0,0,1,1,1
+118154,August Release 2018,2018,42,6,1,0,0,0,0,0,1,1,0
+117310,Marketing Calendar July 2018 Update,SalesHood History,3,1,0,0,0,0,0,0,1,1,1
+117981,Trinet Stories,Deal Wins,112,3,2,0,0,0,0,0,0,0,0
+120499,Get Guru Competitive Huddle,Guru,10,3,6,0,0,0,0,0,1,0,0
+121232,September Release,2018,33,12,0,0,0,0,0,0,1,0,0
+122695,Getting To Power,Sales Coaching,1,2,3,0,0,0,0,0,1,1,1
+144206,Getting To Power,Sales Coaching,105,2,3,0,0,0,0,0,1,1,1
+162681,Getting To Power,Sales Coaching,5,2,3,0,0,0,0,0,1,1,1
+173208,Getting To Power,Sales Coaching,97,2,3,0,0,0,0,0,1,1,1
+144207,First Call Qualification,Sales Coaching,175,3,2,0,0,0,0,0,1,1,1
+173204,First Call Qualification,Sales Coaching,56,3,2,0,0,0,0,0,1,1,1
+280311,First Call Qualification,Sales Coaching,13,3,2,0,0,0,0,0,1,1,1
+122066,Sales Presentations Coaching & Feedback,Stage 5: Preferred Vendor,293,2,1,0,0,0,0,0,1,0,0
+122886,Content Management Demonstration,Old Product Training,204,4,1,0,0,0,0,0,1,0,0
+123719,October 10th Release,2018,5,4,1,0,0,0,0,0,1,1,0
+124177,ShowPad Competitive Intelligence,Showpad,246,6,3,0,0,0,0,0,1,1,1
+199600,Content Management Survey (Share),SalesHood Templates and Tutorials,26,0,2,0,0,0,0,0,1,1,1
+127128,November Release,2018,26,7,1,0,0,0,0,0,1,1,0
+126741,Coaches Corner,TBD,6,0,5,0,0,0,0,0,1,1,1
+126445,Selling Professional Services,Stage 4: Solution Fit Confirmed,104,5,1,0,0,0,0,0,1,1,0
+129173,Support Quarterly Snapshot Q3 2018,TBD,49,1,0,0,0,0,0,0,0,0,0
+129180,November Release Review,2018,7,1,4,0,0,0,0,1,1,1,0
+129826,Support Metrics Snapshot,SalesHood History,74,5,1,0,0,0,0,0,1,1,0
+130358,Content Management Campaign Updates,History,18,7,0,0,0,0,0,0,1,1,1
+131011,December Release,2018,32,9,0,0,0,0,0,0,1,0,0
+131298,Enablement Mastery,SalesHood History,154,3,0,0,0,0,0,0,1,0,0
+134291,January Release - 2019,2018,22,11,0,0,0,0,0,0,1,0,0
+174349,January Release - 2019,2018,154,11,0,0,0,0,0,0,1,0,0
+134681,SEISMIC Competitive Huddle,Seismic,265,3,3,0,0,0,1,0,1,1,1
+137787,Business Case,Stage 3: Initial Deep-Dive Completed,136,3,1,0,0,0,0,0,1,0,0
+139236,SalesHood 2X19 Kickoff Huddle,History,9,3,4,0,0,0,0,0,1,0,0
+148073,Sales Development Coaching,Prospecting,2,3,4,0,0,0,0,0,1,1,0
+150570,Sales Development Coaching,Prospecting,1,3,4,0,0,0,0,0,1,1,0
+144197,2018 Deal Wins,Deal Wins,115,4,2,0,0,0,0,0,1,0,0
+142867,Team Updates,History,73,10,1,0,0,0,0,0,1,0,0
+142584,"Prospecting Tips, Tools & Training",Prospecting,152,5,1,0,0,0,0,1,1,0,0
+143963,Connect the Dots,Prospecting,88,1,1,0,0,0,0,0,1,1,1
+144236,SHI Deal Wins,Deal Wins,66,3,1,0,0,0,0,0,0,0,0
+144353,Using Salesforce,Sales Process Training,182,5,0,0,0,0,0,0,1,0,0
+145274,Org Chart Exercise,Sales Process Training,4,0,1,0,0,0,0,1,1,0,0
+145511,SalesHood Navigation,zOnboarding Learning Path,8,3,1,0,0,0,0,0,1,1,1
+149876,CEO Updates 2019,History,65,10,1,0,0,0,0,0,1,0,0
+150693,Salesforce MyTrailhead,Competition,4,2,1,0,0,0,0,0,0,0,0
+152274,April Release - 2019,2019,69,8,2,0,0,0,0,0,1,0,0
+174347,April Release - 2019,2019,171,8,2,0,0,0,0,0,1,0,0
+152774,Marketing Taglines,Website,3,1,1,0,0,0,0,0,1,0,0
+157624,May Release - 2019,2019,37,6,3,0,0,0,0,0,1,0,0
+174346,May Release - 2019,2019,171,6,3,0,0,0,0,0,1,0,0
+159400,May Kickoff Sales Huddle,History,13,1,5,0,0,0,0,0,1,1,0
+174345,June Release - 2019,2019,43,6,1,0,0,0,0,0,1,0,0
+167167,MULTIPLIERS 2019 Feedback & New Ideas,MULTIPLIERS Conference,3,0,3,0,0,0,0,0,1,1,0
+168013,July Release - 2019,2019,38,5,1,0,0,0,0,1,1,0,0
+174344,July Release - 2019,2019,146,5,1,0,0,0,0,1,1,0,0
+168768,Team Dashboard Vision,What's New?,94,2,1,0,0,0,0,1,1,0,0
+169328,ZenDesk Support Best Practices,Support,2,1,0,1,0,0,0,0,1,1,1
+169348,JIRA  Support Best Practices,Support,3,2,0,1,0,0,0,0,1,1,1
+169400,SysAdmin Support Best Practices,Support,3,1,0,1,0,0,0,0,1,1,1
+169729,Allego Competitive Huddle,Allego,131,4,4,0,0,0,1,0,0,0,0
+169749,BrainShark Competitive Huddle,Brainshark,100,3,4,0,0,0,1,0,0,0,0
+170493,2020 Q3 Territory Planning,Prospecting,20,2,3,0,0,0,0,0,1,1,0
+234358,2020 Q3 Territory Planning,Prospecting,4,2,3,0,0,0,0,0,1,1,0
+174076,August Release - 2019,TBD,1,5,1,0,0,0,0,1,1,0,0
+175472,Emails by Use Case and Examples,Prospecting,41,1,5,0,0,0,0,0,1,1,0
+174405,Roadmap & Release Q&A,Product Resources & Releases,88,0,3,0,0,0,0,0,1,0,0
+174478,August Release - 2019,2019,92,12,1,0,0,0,0,1,1,0,0
+180007,Customer Success Programs,Adoption Programs,5,1,1,0,0,0,0,0,1,0,0
+180071,Customer Success Outreach Plays,Adoption Programs,144,7,2,0,0,0,0,0,1,1,0
+180283,Presentations,2019,9,1,0,0,0,0,0,0,1,0,0
+182394,Customer Success Outreach Templates,Adoption Programs,14,0,2,0,0,0,0,0,1,0,0
+182633,2019 Deal Wins,Deal Wins,112,11,2,0,0,0,0,0,1,0,0
+186494,Presentations Rollout,Product Resources & Releases,570,4,3,0,0,0,0,0,1,1,0
+187792,Q4 HOODIE KICKOFF,PeopleHood,82,2,8,0,0,0,0,0,1,0,0
+188479,Dien Bui,Directory - Who's Who?,3,2,0,0,0,0,0,0,1,1,1
+188818,Employee Expert Certification Intro,Deb's Category ,4,2,1,0,0,0,0,0,1,1,1
+189084,October Release - 2019,2019,59,6,1,0,0,0,0,1,1,0,0
+191418,Tutorial - SalesHood for Managers,SalesHood Templates and Tutorials,139,8,0,0,0,0,0,0,1,1,1
+191928,Subscription Agreements & DocuSign,Stage 5: Preferred Vendor,41,5,1,0,0,0,0,0,0,0,0
+192014,November Release - 2019,2019,42,11,2,0,0,0,0,1,1,0,0
+194446,Tutorial - Manager Coaching Huddles,SalesHood Templates and Tutorials,39,4,0,0,0,0,0,0,1,1,1
+195612,Design 3.0,2019,45,3,1,0,0,0,0,1,1,0,0
+195699,CMS Plan,Product Resources & Releases,27,2,1,0,0,0,0,0,1,0,0
+197073,December Release - 2019,2019,24,7,1,0,0,0,0,1,1,0,0
+197184,How Deal Reviews Work,Product Resources & Releases,7,3,0,0,0,0,0,1,1,0,0
+201574,January Release - 2020,2019,38,11,1,0,0,0,0,1,1,0,0
+201685,2020 Territory Planning & Prospecting,Prospecting,32,3,3,0,0,0,0,1,1,0,0
+201679,CEO 2020 Updates,Company Plans & V2MOMs,136,11,0,0,0,0,0,0,1,0,0
+206237,Leveljump Competitive Intel & Battlecard,Leveljump,129,4,4,0,0,0,1,0,0,0,1
+206934,Hoodie Highlights,Customer Success,105,7,0,0,0,0,0,0,1,0,0
+207037,2020 Vision,History,9,3,1,0,1,0,0,0,0,0,0
+207313,Deal Reviews,Sales Process,17,2,1,0,0,0,0,0,1,1,0
+208012,Relationship Building Extras,Selling Through Curiosity,4,0,5,0,0,0,0,0,1,1,1
+209328,Relationship Building Extras,Selling Through Curiosity,6,0,5,0,0,0,0,0,1,1,1
+210064,Relationship Building Extras,Selling Through Curiosity,6,0,5,0,0,0,0,0,1,1,1
+208276,March Release - 2020,2020,31,16,2,0,0,0,0,1,1,0,0
+211955,SalesHood Expert Certification,Product Resources & Releases,164,1,2,0,0,0,0,0,1,1,1
+212405,Hoodie Townhall,PeopleHood,262,2,3,0,0,0,0,0,1,1,0
+214328,Hoodie Townhall,PeopleHood,173,2,3,0,0,0,0,0,1,1,0
+219580,Hoodie Townhall,PeopleHood,177,2,3,0,0,0,0,0,1,1,0
+224409,Hoodie Townhall,PeopleHood,188,2,3,0,0,0,0,0,1,1,0
+228067,Hoodie Townhall,PeopleHood,170,2,3,0,0,0,0,0,1,1,0
+234830,Hoodie Townhall,PeopleHood,133,2,3,0,0,0,0,0,1,1,0
+239379,Hoodie Townhall,PeopleHood,108,2,3,0,0,0,0,0,1,1,0
+243881,Hoodie Townhall,PeopleHood,94,2,3,0,0,0,0,0,1,1,0
+244667,Hoodie Townhall,PeopleHood,78,2,3,0,0,0,0,0,1,1,0
+245740,Hoodie Townhall,PeopleHood,78,2,3,0,0,0,0,0,1,1,0
+247384,Hoodie Townhall,PeopleHood,68,2,3,0,0,0,0,0,1,1,0
+259450,Hoodie Townhall,PeopleHood,1,2,3,0,0,0,0,0,1,1,0
+212491,Team 3x3x3,PeopleHood,4,0,3,0,0,0,0,0,1,1,0
+213561,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+214700,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+216452,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+217721,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+218702,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+219981,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+220984,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+222490,Team 3x3x3,PeopleHood,5,0,3,0,0,0,0,0,1,1,0
+223498,Team 3x3x3,PeopleHood,5,0,3,0,0,0,0,0,1,1,0
+225891,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+227163,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+228227,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+229396,Team 3x3x3,PeopleHood,5,0,3,0,0,0,0,0,1,1,0
+230647,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+231628,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+232592,Team 3x3x3,PeopleHood,5,0,3,0,0,0,0,0,1,1,0
+233631,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+234575,Team 3x3x3,PeopleHood,5,0,3,0,0,0,0,0,1,1,0
+235935,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+237091,Team 3x3x3,PeopleHood,5,0,3,0,0,0,0,0,1,1,0
+238294,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+239422,Team 3x3x3,PeopleHood,4,0,3,0,0,0,0,0,1,1,0
+240742,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+242161,Team 3x3x3,PeopleHood,7,0,3,0,0,0,0,0,1,1,0
+243147,Team 3x3x3,PeopleHood,5,0,3,0,0,0,0,0,1,1,0
+244116,Team 3x3x3,PeopleHood,7,0,3,0,0,0,0,0,1,1,0
+244954,Team 3x3x3,PeopleHood,7,0,3,0,0,0,0,0,1,1,0
+246269,Team 3x3x3,PeopleHood,6,0,3,0,0,0,0,0,1,1,0
+247143,Team 3x3x3,PeopleHood,5,0,3,0,0,0,0,0,1,1,0
+214453,Customer Success Team Check-In,Customer Success,7,0,5,0,0,0,0,0,1,1,1
+216433,Customer Success Team Check-In,Customer Success,6,0,5,0,0,0,0,0,1,1,1
+215121,April Release - 2020,2020,31,7,0,0,0,0,0,0,1,0,0
+217312,COVID-19 Customer Programs,Customer Success,37,0,2,0,0,0,0,0,1,1,0
+222606,Buyer Persona Exercise,Prospecting,86,0,3,0,0,0,0,0,1,1,0
+223036,May Release - 2020,2020,40,5,0,0,0,0,0,0,1,0,0
+228942,July Release - 2020,2020,18,6,0,0,0,0,0,0,1,0,0
+232190,Retake security awareness training,PeopleHood,9,0,1,0,0,0,0,1,1,0,0
+233770,Retake security awareness training,PeopleHood,17,0,1,0,0,0,0,1,1,0,0
+233297,Welcome Hoodies,PeopleHood,170,1,2,0,0,0,0,0,1,1,0
+235178,SELL - Use Cases,Advanced Sales Enablement Training,56,4,1,0,0,0,0,0,0,0,0
+235281,Selling - Boost Win Rates,Advanced Sales Enablement Training,16,1,0,0,0,0,0,0,0,0,0
+235387,2020 Platform Roadmap,Advanced Sales Enablement Training,72,4,1,0,0,0,0,0,0,0,0
+235411,Domo Sales Plays,Advanced Sales Enablement Training,65,3,1,0,0,0,0,0,0,0,0
+235424,SalesHood - The Early Days,Advanced Sales Enablement Training,7,7,1,0,0,0,0,0,1,0,0
+235456,Sage Sales Coaching,Advanced Sales Enablement Training,28,1,1,0,0,0,0,0,1,0,0
+235837,Tanium Pitch Practice,Advanced Sales Enablement Training,16,4,2,0,0,0,0,0,1,0,0
+236125,PowerSchool Presentations Story,Advanced Sales Enablement Training,99,3,0,0,0,0,0,0,0,0,0
+236181,Platform In Action,Advanced Sales Enablement Training,16,4,1,0,0,0,0,0,0,0,0
+236776,Marketing Buyer's Journey & Offers,SalesHood Marketing,50,5,0,0,0,0,0,0,0,0,0
+237691,August Release - 2020,2020,60,5,0,0,0,0,0,0,1,0,0
+239930,August Product Release Demo,2020,27,5,0,0,0,0,0,0,1,0,0
+241701,October Release Theme Announcement,2020,64,1,1,0,1,0,0,1,1,1,1
+244694,GD Test,TBD,166,1,0,0,0,0,0,0,0,0,0
+246364,Q4 Deal Reviews,Sales Process,5,2,1,0,6,0,0,0,0,0,0
+247306,October Release - 2020,2020,22,11,0,0,1,0,0,0,1,0,0
+250285,October Release Feature Demo's,2020,35,10,0,0,0,0,0,0,1,0,0
+252440,Advanced Analytics - Correlation Engine,Product Resources & Releases,19,3,0,0,0,0,0,0,0,0,0
+255456,Learn/Coach/Sell Demos,Z | Ashley's Content,18,3,0,0,0,0,0,0,1,0,0
+256284,November 2020 Release - Demo,2020,47,8,0,0,0,0,0,0,1,0,0
+260322,Virtual Selling Readiness Campaign,SalesHood Marketing,19,4,3,0,0,0,0,0,1,0,0
+261157,December 2020 Release - Demo,2021,18,8,1,0,1,0,0,0,0,0,0
+261322,2020 Deal Wins,Deal Wins,13,6,1,0,0,0,0,0,1,0,0
+262302,Sprint 233 Ticket Walkthroughs,TBD,31,14,0,0,0,0,0,0,1,0,0
+262632,IGNITING GROWTH Replays,PeopleHood,77,6,1,0,0,0,0,0,0,0,0
+262720,1. Remote Selling Readiness (V1),Z- Old Wining By Design Videos,12,9,2,0,0,0,0,0,1,1,0
+262778,New Pitch Feedback,SalesHood Marketing,85,0,1,0,1,0,0,0,1,0,0
+264914,Remote Selling Readiness,Remote Selling Training,76,9,2,0,0,0,0,0,1,1,1
+264919,Prospecting,Remote Selling Training,30,7,4,0,1,0,0,0,1,1,0
+264920,Running Remote Meetings,Remote Selling Training,10,3,0,0,0,0,0,0,0,0,0
+265949,Product/Engineering Weekly Check In,PeopleHood,6,0,4,0,0,0,0,1,1,0,0
+267252,Product/Engineering Weekly Check In,PeopleHood,1,0,4,0,0,0,0,1,1,0,0
+268244,Product/Engineering Weekly Check In,PeopleHood,7,0,4,0,0,0,0,1,1,0,0
+269289,Product/Engineering Weekly Check In,PeopleHood,7,0,4,0,0,0,0,1,1,0,0
+270279,Product/Engineering Weekly Check In,PeopleHood,7,0,4,0,0,0,0,1,1,0,0
+266588,February 2021 Release Demo,2021,16,9,0,0,1,0,0,1,0,0,0
+268774,V2Hood Q2 Progress,Company Plans & V2MOMs,45,3,3,0,1,0,0,1,1,0,0
+273626,March 2021 Release,TBD,35,4,0,0,0,0,0,1,0,0,0
+274925,Dev Org Structure - Squad Model,Product Onboarding,3,4,1,0,3,0,0,1,1,0,0
+276790,April 2021 Release Demo,2021,18,4,0,1,1,0,0,1,1,0,0
+280113,Leadership Course Program Details,Campaigns,15,4,2,0,4,0,0,0,1,1,0
+281575,May 2021 Release Demo,2021,4,4,0,1,1,0,0,1,1,0,0
+282281,Unplug & Recharge Days,PeopleHood,8,2,3,0,0,0,0,0,1,0,0
